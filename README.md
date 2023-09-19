@@ -1,5 +1,10 @@
 ### Hi there 👋
 I am currently working on serverless functions and test test driven development with CareerFoundry.
+Please check out some of my sites...
+
+### Portfolio Site:
+https://straberryoctosquid.github.io/portfolio-website/
+
 <!--
 **StraberryOctoSquid/StraberryOctoSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
