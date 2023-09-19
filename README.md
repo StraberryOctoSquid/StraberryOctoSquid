@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am currently working on serverless functions and test test driven development with CareerFoundry.
 <!--
 **StraberryOctoSquid/StraberryOctoSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
