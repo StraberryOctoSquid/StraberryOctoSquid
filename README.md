@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am currently working on serverless functions and test test driven development with CareerFoundry.
-Please check out some of my sites...
+Please check out some of my deployments...
 
 ### Portfolio Site:
 https://straberryoctosquid.github.io/portfolio-website/
