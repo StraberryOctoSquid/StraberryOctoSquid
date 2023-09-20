@@ -7,8 +7,11 @@ https://straberryoctosquid.github.io/portfolio-website/
 
 ### myFlix
 https://myflixbysos.netlify.app
-Create a profile or use...
+
+Create a new profile or use...
+
 Username: demo1
+
 Password: demo
 
 <!--
