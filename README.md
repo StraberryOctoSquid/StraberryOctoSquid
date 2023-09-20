@@ -16,7 +16,7 @@ Password: demo
 
 ### Pokedex
 
-https://straberryoctosquid.github.io/simple-js-app/
+https://straberryoctosquid.github.io/Pokedex/
 
 ### Checklist App:
 
