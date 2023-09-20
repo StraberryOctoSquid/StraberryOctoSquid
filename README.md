@@ -18,6 +18,10 @@ Password: demo
 
 https://straberryoctosquid.github.io/simple-js-app/
 
+### Checklist App:
+
+https://straberryoctosquid.github.io/to-do-list-app/
+
 ### Meet App
 
 Comming Soon
