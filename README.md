@@ -24,5 +24,5 @@ https://straberryoctosquid.github.io/to-do-list-app/
 
 ### Meet App
 
-Comming Soon
+Coming Soon
 
