@@ -14,6 +14,10 @@ Username: demo1
 
 Password: demo
 
+### Pokedex
+
+https://straberryoctosquid.github.io/simple-js-app/
+
 <!--
 **StraberryOctoSquid/StraberryOctoSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
